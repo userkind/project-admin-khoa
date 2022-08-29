@@ -1,0 +1,14 @@
+.organization {
+    border: 1px solid #eeeeee;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 12px 0;
+  }
+  
+  .organization-main {
+    margin-bottom: 8px
+  }
+  
+  .organization-footer button {
+    margin-right: 8px
+  }
